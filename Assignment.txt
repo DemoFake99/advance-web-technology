@@ -1,2 +1,7 @@
 19/01/2026
 #1 - State the difference Between ASP and JavaScript
+#2 - Create a button in ASP .NET and Display a message in OnClick Event
+#3 - What is Language Independent?
+#4 - What is Model View Controller?
+#5 - What is Server Side Scripting?
+#6 - What is Internet Information Service?
